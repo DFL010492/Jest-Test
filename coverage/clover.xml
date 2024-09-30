@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1727717123063" clover="3.2.0">
+  <project timestamp="1727717123064" name="All files">
+    <metrics statements="15" coveredstatements="15" conditionals="12" coveredconditionals="12" methods="5" coveredmethods="5" elements="32" coveredelements="32" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
+    <file name="Aluno.js" path="/home/daniel_lima/Documentos/Jest-Projeto-DFL/Aluno.js">
+      <metrics statements="15" coveredstatements="15" conditionals="12" coveredconditionals="12" methods="5" coveredmethods="5"/>
+      <line num="3" count="37" type="stmt"/>
+      <line num="4" count="37" type="stmt"/>
+      <line num="8" count="40" type="stmt"/>
+      <line num="9" count="21" type="stmt"/>
+      <line num="10" count="21" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="19" type="stmt"/>
+      <line num="15" count="14" type="stmt"/>
+      <line num="16" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="19" count="5" type="stmt"/>
+      <line num="23" count="8" type="stmt"/>
+      <line num="25" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="26" count="3" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
